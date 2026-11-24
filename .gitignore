@@ -10,4 +10,4 @@ dist/
 .env
 .DS_Store
 Thumbs.db
-"@ | Set-Content -Path .gitignore
+"@
