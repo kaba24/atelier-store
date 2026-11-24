@@ -1,0 +1,13 @@
+@"
+target/
+.mvn/
+*.jar
+node_modules/
+dist/
+.angular/
+.vscode/
+.idea/
+.env
+.DS_Store
+Thumbs.db
+"@ | Set-Content -Path .gitignore -Encoding UTF8
